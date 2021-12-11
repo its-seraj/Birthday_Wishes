@@ -1,5 +1,5 @@
-# Birthday_Wishes
-Enter name and generate a birthday wishing greet...
+# Random Memes
+It's an app, which showing memes randomly from reddit posts. You can download or share with your friend's.
 
 ## Screenshots
 
